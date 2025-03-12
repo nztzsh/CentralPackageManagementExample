@@ -8,6 +8,6 @@
     <!--
       The centrally defined version of Newtonsoft.Json is 13.0.1 but this project wants to override that with version 9.0.1.
     -->
-    <PackageReference Include="Newtonsoft.Json" VersionOverride="9.0.1" />
+    <PackageReference Include="Newtonsoft.Json" VersionOverride="13.0.3" />
   </ItemGroup>
 </Project>
